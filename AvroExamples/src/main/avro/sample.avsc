@@ -1,0 +1,11 @@
+{
+  "type": "record",
+  "name": "SimpleRecord",
+  "namespace": "com.vgarg.javaexamples.kafka.avroexamples",
+  "fields": [
+    {
+      "name": "data",
+      "type": "string"
+    }
+  ]
+}
